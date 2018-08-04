@@ -1,2 +1,3 @@
 # materializecss-docs
-Offline documentation of materialize css
+Offline documentation for materialize css as seen on https://materializecss.com
+
